@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51cb65b4-5093-4373-b5bf-f921d89446e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DemandForecastTool.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SalePlanTool.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1inzQBD6Nxym8TCoYVoxowlUJFV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MarketExcelTool.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\格式转换\转换前文件" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.DemandForecastTool">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="格式转换" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="格式转换" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DemandForecastTool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="格式转换" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DemandForecastTool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MarketExcelTool" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="格式转换" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MarketExcelTool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SalePlanTool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="格式转换" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SalePlanTool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="格式转换" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.MarketExcelTool" />
+      <item itemvalue="Python.1" />
+      <item itemvalue="Python.2" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.SalePlanTool" />
+      <item itemvalue="Python.DemandForecastTool" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DemandForecastTool" />
+        <item itemvalue="Python.SalePlanTool" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.2" />
+        <item itemvalue="Python.1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51cb65b4-5093-4373-b5bf-f921d89446e7" name="Default Changelist" comment="" />
+      <created>1602558124296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602558124296</updated>
+      <workItem from="1602558130016" duration="2499000" />
+      <workItem from="1602647194042" duration="3000" />
+      <workItem from="1603085107335" duration="467000" />
+      <workItem from="1603086811679" duration="1379000" />
+      <workItem from="1603175074209" duration="1362000" />
+      <workItem from="1603679312957" duration="9384000" />
+      <workItem from="1603697345779" duration="4459000" />
+      <workItem from="1603702690959" duration="4781000" />
+      <workItem from="1603777227908" duration="85000" />
+      <workItem from="1603778659475" duration="20000" />
+      <workItem from="1603778698973" duration="23000" />
+      <workItem from="1611543823654" duration="1477000" />
+      <workItem from="1611567074342" duration="2585000" />
+      <workItem from="1611622826401" duration="2040000" />
+      <workItem from="1611643943252" duration="1198000" />
+      <workItem from="1612321768620" duration="1647000" />
+      <workItem from="1613612650782" duration="5916000" />
+      <workItem from="1613702310801" duration="3681000" />
+      <workItem from="1613714859259" duration="2459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611624203252">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="362" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-34.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1611624203252" />
+    <state x="648" y="267" key="FileChooserDialogImpl" timestamp="1611624202025">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="648" y="267" key="FileChooserDialogImpl/-1920.-34.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1611624202025" />
+    <state width="1637" height="187" key="GridCell.Tab.0.bottom" timestamp="1613711935144">
+      <screen x="1920" y="33" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="212" key="GridCell.Tab.0.bottom/-1920.-34.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1612940666540" />
+    <state width="1637" height="187" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.33.1680.1010@1920.33.1680.1010" timestamp="1613711935144" />
+    <state width="1637" height="187" key="GridCell.Tab.0.center" timestamp="1613711935144">
+      <screen x="1920" y="33" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="212" key="GridCell.Tab.0.center/-1920.-34.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1612940666540" />
+    <state width="1637" height="187" key="GridCell.Tab.0.center/0.0.1920.1040/1920.33.1680.1010@1920.33.1680.1010" timestamp="1613711935144" />
+    <state width="1637" height="187" key="GridCell.Tab.0.left" timestamp="1613711935144">
+      <screen x="1920" y="33" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="212" key="GridCell.Tab.0.left/-1920.-34.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1612940666540" />
+    <state width="1637" height="187" key="GridCell.Tab.0.left/0.0.1920.1040/1920.33.1680.1010@1920.33.1680.1010" timestamp="1613711935144" />
+    <state width="1637" height="187" key="GridCell.Tab.0.right" timestamp="1613711935144">
+      <screen x="1920" y="33" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="212" key="GridCell.Tab.0.right/-1920.-34.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1612940666540" />
+    <state width="1637" height="187" key="GridCell.Tab.0.right/0.0.1920.1040/1920.33.1680.1010@1920.33.1680.1010" timestamp="1613711935144" />
+    <state x="2423" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1613702765836">
+      <screen x="1920" y="33" width="1680" height="1010" />
+    </state>
+    <state x="2423" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.33.1680.1010@1920.33.1680.1010" timestamp="1613702765836" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$2.coverage" NAME="2 Coverage Results" MODIFIED="1611567947476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$excel_template_conversion.coverage" NAME="MarketExcelTool Coverage Results" MODIFIED="1611624205146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$test.coverage" NAME="test Coverage Results" MODIFIED="1613617735996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$DemandForecastTool.coverage" NAME="DemandForecastTool Coverage Results" MODIFIED="1613705025214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$1.coverage" NAME="1 Coverage Results" MODIFIED="1603681406744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$SalePlanTool.coverage" NAME="SalePlanTool Coverage Results" MODIFIED="1613617810892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
